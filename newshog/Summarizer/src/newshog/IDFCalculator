@@ -1,0 +1,10 @@
+
+
+public class IDFCalculator
+{
+	public void writeIDFToFile(String directory, String outputFile)
+	{
+
+	}
+
+}

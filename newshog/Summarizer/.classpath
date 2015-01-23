@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/weka-3-6-6/weka.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/stanford-ner-2013-04-04/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/stanford-ner-2013-04-04/stanford-ner-1.2.8-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/jena-arq-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/jena-core-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/jena-iri-0.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/apache-jena-2.10.0/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/mysql-jdbc/mysql-connector-java-3.1.14/mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/twitter4j/lib/twitter4j-core-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/twitter4j/lib/twitter4j-stream-3.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/stanford-postagger/stanford-postagger-2013-06-20/stanford-postagger.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/jwi/edu.mit.jwi_2.2.2_jdk.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/summarizer/thrift/libthrift-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ram/dev/datasift-java-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
